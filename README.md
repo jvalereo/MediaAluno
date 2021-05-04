@@ -17,8 +17,8 @@
 
 # Sobre o Projeto
 
-- Programa que Calcule a diferença do produto, operações multiplicação, subtração e execulta o resultado na tela.
-- Outros fatores, você também pode  fazer testes, usando os buttons, Executa, Limpar, Sair, nesse projeto.
+- Programa que calcule a media do aluno, insere as notas de portugues, matemática e ciência,  operações, adição, divisão e execulta o resultado na tela.
+- Outros fatores, você também pode  fazer testes aleatorios, usando os buttons, Executa, Limpar, Sair, nesse projeto.
 - Projeto foi implemetado no  Windows Forms.
 - IDE Visual Studio
 
